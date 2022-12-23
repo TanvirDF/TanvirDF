@@ -9,7 +9,7 @@
 - I have graduated from City University of London with a First in 2021  
   
 
-- Currently I am learning to be a full stack developer  
+- I am East London based
   
 
 - I grew up in Italy   
