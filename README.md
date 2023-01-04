@@ -6,7 +6,7 @@
 ### <div align="center">I am Tanvir Ahamed😄, a BSc Computer science graduate🎓and currently working as software engineer at Digital Futures 👨‍💻</div>  
   
 
-- I have graduated from City University of London with a First in 2021  
+- I have graduated from City University of London with a 1st in 2021  
   
 
 - I am East London based
