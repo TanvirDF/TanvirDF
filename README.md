@@ -7,6 +7,9 @@
   
 
 - I have graduated from City University of London with a 1st in 2021  
+
+
+- My previous GitHub is https://github.com/TNVR98 which contains University projects.
   
 
 - I am East London based
