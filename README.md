@@ -18,7 +18,7 @@
 - I grew up in Italy   
   
 
-- ⚡ Fun fact: I learnt swimming from YouTube   
+- ⚡ Fun fact: I learnt to swim on YouTube   
   
 
 <br/>  
@@ -68,19 +68,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TanvirDF&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-</td><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirDF&hide_border=true&layout=compact" align="center" /></div>
-
-</td></tr></table>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=TanvirDF&&style=flat-square" align="center" />
